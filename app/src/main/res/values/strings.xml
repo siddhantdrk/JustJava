@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="order" translatable="false">QUANTITY</string>
+    <string name="qt" translatable="false">0</string>
+    <string name="Ordr" translatable="false">ORDER</string>
+    <string name="paisa" translatable="false">ORDER SUMMARY</string>
+    <string name="num" translatable="false">$ 0</string>
+    <string name="increment" translatable="false">+</string>
+    <string name="decrement" translatable="false">-</string>
+    <string name="menu" translatable="false">TOPPINGS</string>
+    <string name="icecream" translatable="false">Whipped cream</string>
+    <string name="choco" translatable="false">Chocolate</string>
+    <string name="name" translatable="false">Name</string>
+    <string name="stopincrement" translatable="false">You cannot have more than 100 cup of coffee</string>
+    <string name="stopdecrement" translatable="false">You cannot have less than 1 cup of coffee</string>
+    <string name="subject" translatable="false">Just Java order for  </string>
+    <string name="username" translatable="false">Name: </string>
+    <string name="whip" translatable="false">Add whipped cream?  </string>
+    <string name="chocochoco" translatable="false">Add chocolate?  </string>
+    <string name="qty" translatable="false">Quantity: </string>
+    <string name="total" translatable="false">Total: $</string>
+    <string name="ty" translatable="false">Thank you!</string>
+</resources>
